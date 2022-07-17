@@ -1,0 +1,23 @@
+{
+  "name": "vanilla-whatsapp",
+  "version": "1.0.0",
+  "description": "simple whatsapp chat plugin written in plain javascript to redirect to your whatsapp",
+  "main": "vanilla-whatsapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charls96/vanilla-whatsapp.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "chat"
+  ],
+  "author": "charls96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charls96/vanilla-whatsapp/issues"
+  },
+  "homepage": "https://github.com/charls96/vanilla-whatsapp#readme"
+}
