@@ -1,6 +1,6 @@
 {
   "name": "vanilla-whatsapp",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "simple whatsapp chat plugin written in plain javascript to redirect to your whatsapp",
   "main": "vanilla-whatsapp.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "whatsapp",
-    "chat"
+    "chat",
+    "javascript"
   ],
   "author": "charls96",
   "license": "ISC",
