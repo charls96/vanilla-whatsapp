@@ -87,6 +87,7 @@
   width: 50px;
   height: 50px;
   fill: white;
+  border-radius: 100%;
 }
 
 .img-user-whatsapp::before {
@@ -197,16 +198,7 @@
 }
 
 @media (max-width: 640px) {
-  .div-chat-whatsapp {
-    width: 300px;
-    right: 2.5em;
-  }
-
-  .div-chat-triangle-whatsapp {
-    right: 2.1em;
-  }
-
-  .body-whatsapp {
-    width: 300px;
+  .btn-whatsapp {
+    right: 10% !important;
   }
 }

@@ -4,7 +4,7 @@
       phoneNumber: "3432132132",
       positionButtonWhatsapp: {
         top: "",
-        right: "30%",
+        right: "15%",
         bottom: "2%",
         left: "",
       },
