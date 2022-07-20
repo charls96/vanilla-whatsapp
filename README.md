@@ -8,6 +8,7 @@
   - [Table of contents](#table-of-contents)
   - [Installation & Usage](#installation--usage)
   - [Customization](#customization)
+  - [Vanilla-whatsapp in React](#vanilla-whatsapp-in-react)
 
 ## Installation & Usage
 
@@ -62,3 +63,6 @@ window.initVanillaWhatsapp(whatsappData);
 ```
 
 <span>Note: phone number must be preceded by the country prefix in the default option is 34 the prefix of Spain<span>
+
+## Vanilla-whatsapp in React
+https://codesandbox.io/s/vanilla-whatsapp-react-35gtww?file=/src/App.js
